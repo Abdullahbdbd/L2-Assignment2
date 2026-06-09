@@ -6,7 +6,7 @@ DevPulse is a collaborative platform designed for software teams to report bugs,
 
 ## 🌐 Live URL
 
-https://your-live-url.com
+https://devpulse-seven-mu.vercel.app/
 
 ---
 
@@ -44,7 +44,7 @@ https://your-live-url.com
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/devpulse.git
+git clone https://github.com/Abdullahbdbd/L2-Assignment2
 cd devpulse
 ```
 
